@@ -2,7 +2,7 @@
 
 ## Overview
 
-Shop App is a modern web application designed to simplify the shopping experience. Users can browse products, add items to their cart .
+Shop App is a modern front-end web application that simplifies the shopping experience. Users can browse products, add items to their cart, and view their selections seamlessly and responsively.
 
 ## Screenshots
 
