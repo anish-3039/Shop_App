@@ -2,22 +2,18 @@
 
 ## Overview
 
-Shop App is a modern front-end web application that simplifies the shopping experience. Users can browse products, add items to their cart, and view their selections seamlessly and responsively.
+Shop App is a modern front-end web application designed to simplify the shopping experience. Users can browse products, add items to their cart, and view their selections seamlessly and responsively.
 
 ## Screenshots
 
 ### Home Page
 ![Home Page](images/home_page.png)
 
-
-
 ### Shopping Cart
 ![Shopping Cart](images/shopping_cart.png)
 
-
-
 ### Empty Cart
-![Empty_Cart](images/empty_cart.png)
+![Empty Cart](images/empty_cart.png)
 
 ## Features
 
@@ -33,11 +29,25 @@ Follow these steps to set up and run the Shop App on your local machine.
 
 - Node.js and npm installed
 
-### Steps :
+### Steps
 
-1. **Clone the repository**
+1. **Clone the repository:**
 
-2. **Install dependencies**
+    ```bash
+    git clone https://github.com/anish-3039/Shop_App.git
+    cd Shop_App
+    ```
 
-3. **Run the application**
+2. **Install dependencies:**
 
+    ```bash
+    npm install
+    ```
+
+3. **Run the application:**
+
+    ```bash
+    npm start
+    ```
+
+    The application will start on `http://localhost:3000`.
