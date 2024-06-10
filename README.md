@@ -29,11 +29,11 @@ Follow these steps to set up and run the Shop App on your local machine.
 
 - Node.js and npm installed
 
-### Setup
+### Steps :
 
-1. **Clone the repository:**
+1. **Clone the repository**
 
-2. **Install dependencies:**
+2. **Install dependencies**
 
-3. **Run the application:**
+3. **Run the application**
 
