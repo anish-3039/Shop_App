@@ -9,8 +9,12 @@ Shop App is a modern front-end web application that simplifies the shopping expe
 ### Home Page
 ![Home Page](images/home_page.png)
 
+
+
 ### Shopping Cart
 ![Shopping Cart](images/shopping_cart.png)
+
+
 
 ### Empty Cart
 ![Empty_Cart](images/empty_cart.png)
